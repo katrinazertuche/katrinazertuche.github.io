@@ -1,0 +1,36 @@
+.brand-logo img {
+    height: 2em
+}
+
+nav li a {
+    color: #B18F4F !important;
+}
+
+#centerpiece {
+    text-align: center;
+    padding: 100px 0;
+}
+
+#about {
+    text-align: center;
+}
+
+.color-section {
+    padding: 20%;
+    color: white
+}
+
+#experience {
+    margin-top: -20%;
+    text-align: center;
+}
+
+.social a {
+    color: white;
+    text-align: center;
+    margin: 20px
+}
+
+.my-footer-stuff {
+    text-align: center
+}
