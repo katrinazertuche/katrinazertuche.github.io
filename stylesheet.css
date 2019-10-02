@@ -21,7 +21,6 @@ nav li a {
 }
 
 #experience {
-    margin-top: -20%;
     text-align: center;
 }
 
@@ -34,3 +33,6 @@ nav li a {
 .my-footer-stuff {
     text-align: center
 }
+html {
+    scroll-behavior: smooth;
+  }
